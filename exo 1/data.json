@@ -1,0 +1,27 @@
+{
+    "crew": "Mugiwara",
+    "boat": "Thousand Sunny",
+
+    "members": 
+    [
+      {
+        "name": "Monkey D Luffy",
+        "age": 19,
+        "role": "Captain",
+        "powers": "Gomu Gomu No Mi (Devil's fruit)"
+      },
+      {
+        "name": "Roronoa Zoro",
+        "age": 21,
+        "role": "Second",
+        "powers": "Swordsman"
+      },
+      {
+        "name": "Vinsmoke Sanji",
+        "age": 21,
+        "role": "Cook",
+        "powers": "Taekwondo"
+      }
+    ]
+  }
+  
